@@ -3,5 +3,6 @@ public class Main {
 
         System.out.println("Guten Tag, Github!");
         System.out.println("How are you today?");
+        System.out.println("This line was typed in the computer lab");
     }
 }
